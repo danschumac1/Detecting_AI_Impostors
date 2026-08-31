@@ -1,0 +1,13 @@
+{
+  "lobby_id": 1,
+  "chat_log_path": "data/debug/lobby_1/chat_log.txt",
+  "start_time_path": "data/debug/lobby_1/starttime.txt",
+  "voting_path": "data/debug/lobby_1/voting.json",
+  "player_path": "data/debug/lobby_1/players.json",
+  "number_of_human_players": 3,
+  "icebreakers": [
+    "What is your favorite subject in school?",
+    "What is something you're really good at?",
+    "What's your favorite food?"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "round_number": 1,
+  "players": [],
+  "players_voted_off": [],
+  "last_vote_outcome": "",
+  "chat_log_path": "data/debug/lobbies/lobby_1/chat_log.txt",
+  "voting_path": "data/debug/lobbies/lobby_1/voting.json",
+  "start_time_path": "data/debug/lobbies/lobby_1/starttime.txt",
+  "player_path": "data/debug/lobbies/lobby_1/players.json",
+  "chat_log": "",
+  "voting_log": "",
+  "chat_complete": false,
+  "voting_complete": false,
+  "round_complete": false,
+  "number_of_human_players": 2,
+  "ice_asked": 0,
+  "icebreakers": [
+    "Welcome to the game! Everyone please introduce yourself using your first name and last initial.",
+    "What is your favorite subject in school?",
+    "What is something you're really good at?",
+    "What's your favorite food?"
+  ]
+}

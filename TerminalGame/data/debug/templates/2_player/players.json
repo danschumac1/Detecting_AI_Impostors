@@ -1,0 +1,40 @@
+[
+  {
+    "lobby_id": 1,
+    "first_name": "NAME",
+    "last_initial": "S",
+    "code_name": "HORSE",
+    "grade": 6,
+    "favorite_food": "Tuna Sandwhiches",
+    "favorite_animal": "Border Collies",
+    "hobby": "Boxing and Boardgames",
+    "extra_info": "I do dog agility with my wife NAME. And love to play board games and yard games.",
+    "is_human": true,
+    "color_name": "MAGENTA",
+    "starttime": "2025-05-22T11:27:05.615037",
+    "voted": false,
+    "ai_doppleganger": null,
+    "written_to_file": false,
+    "timekeeper": true,
+    "still_in_game": true
+  },
+  {
+    "lobby_id": 1,
+    "first_name": "NAME2",
+    "last_initial": "L",
+    "code_name": "MONKEY",
+    "grade": 6,
+    "favorite_food": "Sushi",
+    "favorite_animal": "Wild Geese lol",
+    "hobby": "Knitting and watching TV",
+    "extra_info": "i am a reallllly good third grade teacher and have a knack for arts and crafts",
+    "is_human": true,
+    "color_name": "GREEN",
+    "starttime": "",
+    "voted": false,
+    "ai_doppleganger": null,
+    "written_to_file": true,
+    "timekeeper": false,
+    "still_in_game": true
+  }
+]

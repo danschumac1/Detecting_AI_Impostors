@@ -1,0 +1,10 @@
+pyyaml
+pydantic
+python-dotenv
+openai
+json-repair
+pandas
+scikit-learn
+transformers
+torch
+accelerate

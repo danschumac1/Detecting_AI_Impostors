@@ -1,0 +1,6 @@
+colorama
+pydantic
+python-dotenv
+openai==1.70.0
+prompt-toolkit
+PyYAML

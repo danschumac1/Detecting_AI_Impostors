@@ -1,0 +1,8 @@
+__meta__:
+  output_model: str # this can also be a path to a baseclass. such as resources.prompts.base_classes.SimpleOutput
+
+system_prompt: |
+  You are a helpful assistant. Given a question and some context, answer the question as clearly and concisely as possible using only relevant information from the context.
+
+main_prompt_header: |
+  Answer the question using the context below.
